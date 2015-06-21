@@ -1,6 +1,6 @@
 # Hivemind
 
-> “Hive mind Research is an intelligent technology analysis service.” - [askhivemind.com](https://askhivemind.com)
+> “Hivemind Research is an intelligent technology analysis service.” - [askhivemind.com](https://askhivemind.com)
 
 This is a demo iOS application that illustrates how to use the Hivemind API.
 
