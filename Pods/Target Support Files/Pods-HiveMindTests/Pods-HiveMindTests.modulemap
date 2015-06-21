@@ -1,0 +1,6 @@
+framework module Pods_HiveMindTests {
+  umbrella header "Pods-HiveMindTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
